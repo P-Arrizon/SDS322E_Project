@@ -1,8 +1,3 @@
-# SDS322E_Project
----
-title: "Read me"
-output: github_document
----
 
 # SDS 322E project
 ## Heart Failure Prediction
