@@ -6,7 +6,7 @@
 1. Pedro Arrizon
 2. Justin Callahan
 3. Jennice Herrera 
-4. Leah Lee
+4. Doeun(Leah) Lee
 5. Abhinav Mugunda
 
 
