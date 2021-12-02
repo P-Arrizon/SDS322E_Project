@@ -1,0 +1,32 @@
+---
+title: ' '
+pagetitle: 'Justin Callahan'
+output: 
+  html_document: 
+    css: "styles.css"
+---
+
+```{R echo=F, eval=F}
+#to build this website into the _site directory, run
+rmarkdown::site_generator()
+```
+ 
+
+
+<br>
+
+# Introduction
+
+##### Our project seeks to find how likely it is that someone experiences heart problems based off a set of factors including sex, resting blood pressure, and cholesterol level.
+  
+</br>
+
+##### I am a senior finance major with a minor in MIS at The University of Texas
+
+##### I like to play soccer and eat good food in my freetime. 
+
+##### I was born in Bermuda, but grew up in Connecticut and Houston.  
+
+##### I don't have any data-related projects either, but if I did you could find them [here](/Methods)!
+
+---

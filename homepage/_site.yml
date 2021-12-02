@@ -1,0 +1,20 @@
+name: "Justin Callahan"
+navbar:
+  title: "My Site"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Methods"
+      href: Methods.html
+    - text: "Analysis"
+      href: Analysis.html
+    - text: "Conclusion"
+      href: Conclusion.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<justinbcallahan@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/callajus000/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/justin-callahan-72b38b150
+      
