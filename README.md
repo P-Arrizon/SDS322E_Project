@@ -12,6 +12,8 @@
 
 ## Project Description
   Our goal is to create a model that can give us the likelihood of a possible heart complication. 
+  
+## [Project Report](https://callajus000.github.io/)
 
 ## Data
   Our data can be found [here](https://www.kaggle.com/fedesoriano/heart-failure-prediction)
